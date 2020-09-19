@@ -1,7 +1,7 @@
 # EVGENY KAPACHENYA
 
 > Hello, my name is Evgeniy. I am currently taking a JavaScript / Front-end course at RS School.
-> I am interested in Front-End development and related technologies. Married, no children. Driving license category "B". Ready for mobile work. Focused on problem solving, emotionally stable, ready to take courses and learn.
+> I am interested in Front-End development and related technologies. Married, no children. Driving license category "B". Ready for mobile work. Focused on problem solving, emotionally stable, sociable, ready to take courses and learn.
 
 ## CONTACT
 - Address: Minsk, Republic of Belarus
