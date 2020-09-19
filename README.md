@@ -1,1 +1,1 @@
-# rsschool-cv
+https://kapachenia.github.io/rsschool-cv/cv
