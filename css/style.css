@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+   }
+
+body {
+    background-color: #C0C0C2;
+}
+
+main {
+    width: 960px;
+    margin: auto;
+    background-color: silver;
+}
+
+.left-column {
+    float: left;
+    width: 320px;
+    background-color: #9c9c9c;
+}
+
+
+.name-ava img {
+    width: 320px;
+}
+
+.name-ava p {
+    background-color: #F0952C;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.name-cv {
+    text-transform: uppercase;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.right-column {
+    float: right;
+    width: 640px;
+    background-color: #F8F8F8;
+    height: 677px;
+}
+
+.right-column p {
+    color: black;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    border: solid 1px #C0C0C2;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+ul li {
+    color:white;
+    list-style: none;
+    padding-left: 10px;
+    padding-bottom: 5px;
+
+}
+
+.right-column li {
+    color: black;
+    padding-left: 40px;
+    padding-top: 10px;
+}
+
+.right-column h2 {
+    color: black;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.right-column p {
+    margin-left: 20px;
+    margin-right: 20px;
+}
